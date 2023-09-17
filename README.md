@@ -1,7 +1,7 @@
 <p align="center">
   <img height="100px" src="https://i.imgur.com/QTGG2PP.png" align="center" alt="Stephanus Dai"/>
   <h1 align="center">ShellLinuxAutoBackupFile</h1>
-  <p align="center">Implementation of JSON Function API based on Request POST, GET, PUT, DELETE methods on Android</p></p>
+  <p align="center">A simple helper script to backup all file and directory in GNU/Linux</p></p>
 <p align="center">
   <img src="https://img.shields.io/badge/%20OS%20-%20All Linux%20-gray.svg?colorA=2C5364&colorB=0F2027&style=flat&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/%20Type%20-%20Bash%20Script%20-gray.svg?colorA=2C5364&colorB=0F2027&style=flat"/>
